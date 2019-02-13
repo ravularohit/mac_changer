@@ -1,6 +1,6 @@
 #coded by : Ravularohit
 #github :https://github.com/ravularohit/
-#Instagram :@Ravularohit
+#Instagram :@ravula.rohit
 
 import optparse
 import subprocess
