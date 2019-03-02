@@ -21,7 +21,7 @@ def input():
         p.error("\033[1;31;40m[-] please specify the interface, use -h,--help for more info")
     elif not opt.mac:
         p.error("\033[1;31;40m[-] please specify the custom mac, use -h,--help for more info")
-        return opt
+    return opt
 
 
 intro=(''''########:::::::'####:::::::'########::
