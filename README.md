@@ -4,7 +4,7 @@ This a macchanger tool which is used to Bypass filters...
 
 ## Usage
 
-'''bash
+```bash
 python mac_changer.py -h
 '########:::::::'####:::::::'########::
  ##.... ##:::::'##. ##:::::: ##.... ##:
@@ -23,4 +23,4 @@ Options:
   -i INTER, --interface=INTER
                         Interface to which mac should be changed
   -m MAC, --mac=MAC     custom mac input
-'''
+```
