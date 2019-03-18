@@ -5,7 +5,8 @@ This a macchanger tool which is used to Bypass filters...
 ## Usage
 
 ```bash
-python mac_changer.py -h
+$python mac_changer.py -h
+
 '########:::::::'####:::::::'########::
  ##.... ##:::::'##. ##:::::: ##.... ##:
  ##:::: ##:::::. ####::::::: ##:::: ##:
