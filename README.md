@@ -25,3 +25,5 @@ Options:
                         Interface to which mac should be changed
   -m MAC, --mac=MAC     custom mac input
 ```
+
+**Only linux platform**
